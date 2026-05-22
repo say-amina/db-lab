@@ -7,7 +7,7 @@
 * **University:** Information Technology University (ITU), Lahore  
 
 ### Introduction
-I am a 2nd-semester BSAI student learning the fundamentals of databases, structural data storage, and version control systems. Currently, I am exploring how to model relational data and manage projects effectively using GitHub.
+I am a 2nd-semester BSAI student learning the fundamentals of databases, structural data storage and version control systems. Currently, I am exploring how to model relational data and manage projects effectively using GitHub.
 
 ### What I Learned About GitHub in this Lab
 1. I learned how to create and structure repositories on GitHub to manage project files professionally.
